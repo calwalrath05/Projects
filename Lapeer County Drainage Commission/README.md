@@ -12,6 +12,7 @@ After this program:
 How the program works:
 - Parsing the relevant coordinate\distance data from a given assessment
 - Removing extra information and unusual formatting practices
+- Generally accounts for likely typos, which are present in the example documents (legal1.txt, legal2.txt, legal3.txt)
 - Exporting the information into a new .txt document precisely formatted to specifications
 
 Challenges:
