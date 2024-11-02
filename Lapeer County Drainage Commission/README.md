@@ -18,4 +18,4 @@ Challenges:
 - The most significant challenge in the implementation of this program (as well as for the workers) is that the style of documentation is extremely diverse between different asessors; there is no standard format for these legal documents.
 - Due to the robust nature of the program, even a document as unusual and convoluted as legal3.txt can be processed to the same degree of accuracy as a human.
 
-I am proud that this work saves hard-working government employees days of stress and effort!
+I am proud that this project saves hard-working government employees days of stress and effort!
