@@ -1,2 +1,2 @@
-This is a school project for EECS 281 (Algorithms and Data Structures) in which I fully implemented a basic SQL in C++. This SQL supports standard commands including CREATE, COMMENT, REMOVE, INSERT, JOIN, PRINT, WHERE, GENERATE, and DELETE. This implementation makes use of hash tables and binary search trees (among other data structures).
+This is a school project for EECS 281 (Data Structures and Algorithms) in which I fully implemented a basic SQL in C++. This SQL supports standard commands including CREATE, COMMENT, REMOVE, INSERT, JOIN, PRINT, WHERE, GENERATE, and DELETE. This implementation makes use of hash tables and binary search trees (among other data structures).
 The bulk of the implementation is in silly.cpp, and I have also included some test files.
