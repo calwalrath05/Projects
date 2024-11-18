@@ -1,0 +1,1 @@
+This is a school project that used natural language processing (NLP) to classify posts on the student-teacher forum Piazza. It also includes a from-scratch implementation of the binary search tree data structure.
