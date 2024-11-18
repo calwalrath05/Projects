@@ -1,4 +1,4 @@
-This is a school project for EECS 281 (Data Structures and Algorithms) in which I implemented multiple solutions to the Traveling Salesperson Problem. 
+This is a school project in which I implemented multiple solutions to the Traveling Salesperson Problem. 
 # The Traveling Salesperson Problem
 This is a classic computer science problem that has countless applications. The problem is to find the shortest path among some list of locations such that a "salesperson" can visit each location once before finally arriving at the original location. 
 ## Additional Constraints
