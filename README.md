@@ -6,3 +6,4 @@ Hello! My name is Cal Walrath and these are some of the projects I have done. Th
 - A Hamming code decipherer, using linear algebra concepts
 - A from-scratch implementation of a SQL
 - An implementation of two solutions to the Traveling Salesperson Problem using the Nearest-Neighbor Heuristic and a Branch and Bound Brute-Force Algorithm
+- A machine learning algorithm that uses natural language processing to classify posts on a student-instructor forum
